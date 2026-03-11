@@ -17,5 +17,6 @@
    output: data for EFA
 
    "c-c-1-chienchien foodreview.txt"= sample text data
+   
    "COUNT - EFA -JASP.jasp"= JASP result
    
